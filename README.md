@@ -9,3 +9,4 @@
 - Jafeth Arturo Garro Roldán
 - Jair Cerdas Fallas
 - Allan Fauricio Fonseca Batista
+- Raul Jose Muñoz Cruz
